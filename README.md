@@ -1,5 +1,5 @@
 # ytz-gen
-saw people selling this shit so why not leak it
+Someone Was Selling My Work So People Leaked It
 
 Where can I use it?
 `This project can be used in replit & command prompt`
